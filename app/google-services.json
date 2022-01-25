@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374966613578",
+    "project_id": "uaspam-bd1ca",
+    "storage_bucket": "uaspam-bd1ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374966613578:android:7e7ca1be7951f37d3218b3",
+        "android_client_info": {
+          "package_name": "com.fahmiamaru.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374966613578-403i7ncan2qb4mb0eha5o2t59gsocbh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy0Tli9f1C53oZQJu4PSEtaRvxJ2v28jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374966613578-403i7ncan2qb4mb0eha5o2t59gsocbh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
