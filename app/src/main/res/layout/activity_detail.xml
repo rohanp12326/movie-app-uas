@@ -17,16 +17,7 @@
             android:layout_width="wrap_content"
             android:layout_height="251dp"
             android:layout_gravity="center"/>
-        <ImageView
-            android:id="@+id/star"
-            android:layout_alignParentEnd="true"
-            android:layout_marginEnd="30dp"
-            android:layout_marginTop="20dp"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:src="@drawable/ic_star_rate_off"
-            android:clickable="true"
-            />
+
     </RelativeLayout>
 
     <TextView

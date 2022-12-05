@@ -1,4 +1,4 @@
-package com.fahmiamaru.uas.model;
+package com.rohan.patil.model;
 
 public class Movie {
 

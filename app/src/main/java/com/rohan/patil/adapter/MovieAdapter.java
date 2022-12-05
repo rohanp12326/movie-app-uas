@@ -1,4 +1,4 @@
-package com.fahmiamaru.uas.adapter;
+package com.rohan.patil.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -14,9 +14,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.fahmiamaru.uas.DetailActivity;
-import com.fahmiamaru.uas.R;
-import com.fahmiamaru.uas.model.Movie;
+import com.rohan.patil.DetailActivity;
+import com.rohan.patil.R;
+import com.rohan.patil.model.Movie;
 
 import java.util.List;
 
